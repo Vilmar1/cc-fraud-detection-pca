@@ -1,4 +1,4 @@
-# fraud-detection-pca
+# Fraud Detection PCA
 Analyzing PCA technique applied to a dataset retrieved from users transactions.
 # Alocacao-em-projetos
 Projeto que visa a designação de membros de uma empresa aos projetos disponíveis nela.
