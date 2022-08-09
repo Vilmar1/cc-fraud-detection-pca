@@ -39,3 +39,6 @@ Here is the Precision-Recall curve generated for the experiment, totalizing an A
   <img src="https://user-images.githubusercontent.com/38505459/183726022-f605c2df-254d-44ee-8ed1-054c10c6fcd4.png">
 </p>
 
+## Improvements
+
+Future Directions are related to replace the threshold $t$ by a Logistic Regression. An initial implementation is commented in the final part of the code.
